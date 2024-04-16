@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+extract_msg==0.48.5
+inquirer==3.2.4
+pandas==2.2.2

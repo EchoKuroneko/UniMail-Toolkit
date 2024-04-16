@@ -1,0 +1,12 @@
+# IGNORE THESE
+/*
+venv/
+__pycache__/
+.idea
+
+# DO NOT IGNORE THESE FILES
+!*.py
+!core
+!utils
+!.gitignore
+!requirements.txt
